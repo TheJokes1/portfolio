@@ -1,0 +1,28 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJokes1/portfolio.git"
+  },
+  "keywords": [
+    "developer",
+    "coding",
+    "fun",
+    "logic"
+  ],
+  "author": "Jo J.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheJokes1/portfolio/issues"
+  },
+  "homepage": "https://github.com/TheJokes1/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
